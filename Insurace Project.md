@@ -44,5 +44,8 @@ Running the Application Locally:
 2.Build and run the project as Spring boot app using your preferred IDE.
 3.Access the APIs at the following endpoints:
    >Clients: http://localhost:8997/api/clients
+   >To fetch or update Client by id: http://localhost:8997/api/clients/{id}
    >Insurance Policies: http://localhost:8997/api/policies
+   >>To fetch or update insurance by id: http://localhost:8997/api/policies/{id}
    >Claims: http://localhost:8997/api/claims
+   >>To fetch or update Claim by id: http://localhost:8997/api/claim/{id}
