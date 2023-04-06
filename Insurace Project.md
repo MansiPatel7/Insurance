@@ -63,7 +63,7 @@ The application.properties file contains the configuration for the mysql databas
 Running the Application Locally:
 
 1.Clone the GitHub repository to your local environment.
-2.Build and run the project as Springboot app using your preferred IDE.
+2.Build and run the project as Spring boot app using your preferred IDE.
 3.Access the APIs at the following endpoints:
    >Clients: http://localhost:8997/api/clients
    >Insurance Policies: http://localhost:8997/api/policies
