@@ -10,35 +10,13 @@ Features:
 Structure:
 Insurance [boot] [devtools] [Insurance main]
  src/main/java
-  com.project
-    >DemoApication.java
-  com.project.Controller
-    >Claim Controller.java
-    >ClientController.java
-    >Insurance Controller.java
-  com.project.Entity
-    > Claim.java
-    >Client.java
-    > Insurance.java
-    >MessageforException.java
-  com.project.Exception    
-    >ExceptionResponseScreen.java
-    > ManagementException.java
-  com.project.repository
-    >claimRepository.java
-    >clientRepository.java
-    >insuranceRepository.java
-  com.project.service
-    >ClaimService.java
-    >ClientService.java
-    > ImplClaimService.java
-    >ImplClient.java 
-    >ImplinsuranceService.java
-    >InsuranceSerivce.java
-  src/main/resources
-    >Static
-    >Templates
-    >application.properties
+  com.project >DemoApication.java
+  com.project.Controller >Claim Controller.java >ClientController.java >Insurance Controller.java
+  com.project.Entity > Claim.java >Client.java > Insurance.java >MessageforException.java
+  com.project.Exception >ExceptionResponseScreen.java > ManagementException.java
+  com.project.repository >claimRepository.java  >clientRepository.java >insuranceRepository.java
+  com.project.service >ClaimService.java >ClientService.java > ImplClaimService.java >ImplClient.java >ImplinsuranceService.java  >InsuranceSerivce.java
+  src/main/resources >Static >Templates >application.properties
   src/test/java
   JRE System Library [JavaSE-17]
   Maven Dependencies
